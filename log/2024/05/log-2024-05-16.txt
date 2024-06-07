@@ -1,0 +1,14 @@
+2024-05-16 13:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\hotel\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2024-05-16 13:33:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\hotel\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2024-05-16 13:35:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\hotel\app\view\ventas\historial_ventas.php: 41[MESSAGGE]Undefined variable: tipo_venta
+
+2024-05-16 13:35:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\hotel\app\view\ventas\historial_ventas.php: 42[MESSAGGE]Undefined variable: tipo_venta
+
+2024-05-16 13:35:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\hotel\app\view\ventas\historial_ventas.php: 43[MESSAGGE]Undefined variable: tipo_venta
+
+2024-05-16 13:35:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\hotel\app\view\ventas\historial_ventas.php: 44[MESSAGGE]Undefined variable: tipo_venta
+
+2024-05-16 13:35:23[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\hotel\app\view\ventas\historial_ventas.php: 45[MESSAGGE]Undefined variable: tipo_venta
+
